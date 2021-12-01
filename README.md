@@ -6,12 +6,30 @@ Pewlett -Hackard, a large company with several thousand employees with a length 
 **Goals:**
 1. Who is eligible for retirement.
 2. Generate a list of all employees eligible for the retirement package.
+3. A list of employees containing their unique employee number, their last name, first name, gender, and salary.
+4. A list of managers for each department, including the department number, name, and the manager's employee number, last name, first name, and the starting and ending         employment dates.
+5. An updated current_emp list that includes everything it currently has, but also the employee's departments.
 
 
 **##Summary**
 
 1. 41,380 employees are eligible for retirment.
-2.** A list of retiring employees can be found in the csv file retirement_info.**
+
+2. A list of retiring employees can be found in the csv file: retirement_info 
+
+GitHub link to CSV file: https://github.com/mcbride249/Pewlett-Hackard-Analysis/blob/main/Data/retirement_info.csv
+
+3. A list of retiring employees can be found in the csv file: emp_info.
+
+GitHub link to CSV file: https://github.com/mcbride249/Pewlett-Hackard-Analysis/blob/main/Data/emp_info.csv
+
+4. A list of retiring employees can be found in the csv file: manager_info.
+
+GitHub link to CSV file: https://github.com/mcbride249/Pewlett-Hackard-Analysis/blob/main/Data/manager_info.csv
+
+5.  A list of retiring employees can be found in the csv file: dept_info.
+
+GitHub link to CSV file: https://github.com/mcbride249/Pewlett-Hackard-Analysis/blob/main/Data/dept_info.csv
 
 
 **##Resources**
